@@ -1,2 +1,2 @@
 # Softversko-COSTAPP
-Projekat iz softverskog inženjerstva
+Dokumentacija za projekat iz softverskog inženjerstva
